@@ -1,0 +1,7 @@
+{
+    "name": "Just a simple webserver",
+    "description": "A barebones webserver that serves files",
+    "repository": "https://github.com/sjempotje/webserver",
+    "logo": "http://www.rw-designer.com/icon-image/7523-256x256x32.png",
+    "keywords": ["webserver", "static"]
+  }
