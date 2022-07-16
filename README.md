@@ -1,4 +1,5 @@
 ## Web server v1
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)]([https://heroku.com/deploy](https://dashboard.heroku.com/new?template=https://github.com/sjempotje/webserver))
 
 Just a simple webserver
 
